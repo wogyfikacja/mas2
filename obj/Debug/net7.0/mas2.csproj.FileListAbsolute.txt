@@ -1,0 +1,15 @@
+C:\Users\emil1\Documents\MAS\mas2\bin\Debug\net7.0\mas2.exe
+C:\Users\emil1\Documents\MAS\mas2\bin\Debug\net7.0\mas2.deps.json
+C:\Users\emil1\Documents\MAS\mas2\bin\Debug\net7.0\mas2.runtimeconfig.json
+C:\Users\emil1\Documents\MAS\mas2\bin\Debug\net7.0\mas2.dll
+C:\Users\emil1\Documents\MAS\mas2\bin\Debug\net7.0\mas2.pdb
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.csproj.AssemblyReference.cache
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.AssemblyInfoInputs.cache
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.AssemblyInfo.cs
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.csproj.CoreCompileInputs.cache
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.dll
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\refint\mas2.dll
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.pdb
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\mas2.genruntimeconfig.cache
+C:\Users\emil1\Documents\MAS\mas2\obj\Debug\net7.0\ref\mas2.dll
